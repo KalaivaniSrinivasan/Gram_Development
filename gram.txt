@@ -7,3 +7,5 @@
 4. Features(audio, video, image)
 
 5. Status
+
+6 Adding the document feature
