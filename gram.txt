@@ -8,4 +8,8 @@
 
 5. Status
 
+
 6 Adding the document feature
+
+7. Hiding last seen
+
